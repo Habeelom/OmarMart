@@ -1,0 +1,11 @@
+.offers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.offers img {
+    width: 1100px;
+    max-width: 100%;
+}

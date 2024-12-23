@@ -1,0 +1,10 @@
+.breadcrumb{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color:lightslategray;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 40px 100px;
+    text-transform: capitalize;
+}
