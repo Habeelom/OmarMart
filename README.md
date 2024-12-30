@@ -3,6 +3,14 @@
 ## Overview
 OmarMart is a dynamic and responsive e-commerce web application built using React. The app features various categories of products and allows users to browse, add items to their cart, and manage their shopping experience seamlessly.
 
+<img width="500" alt="Screenshot 2024-12-29 at 9 33 44 PM" src="https://github.com/user-attachments/assets/2c446656-e005-4836-8055-4bdf6ed338e2" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 33 15 PM" src="https://github.com/user-attachments/assets/7d48e6ee-c78c-4c46-850c-a4b9088d16f3" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 32 56 PM" src="https://github.com/user-attachments/assets/a919675a-1381-49f4-86a5-0fa4974344bc" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 32 43 PM" src="https://github.com/user-attachments/assets/6304d38b-f995-4323-8b5e-23deb929c10c" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 32 22 PM" src="https://github.com/user-attachments/assets/79d1ebd3-cb6b-4837-9c44-ca6824c96f10" />
+
+
+
 ## How It's Made
 **Tech Used:** React, React Router, Context API, CSS
 
